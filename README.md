@@ -1,5 +1,5 @@
 # AI_voice
-Testing AI tools for voice recognition / changer
+Testing AI tools for voice recognition / changer project
 
 
 ![adobe_speech_enhance_hero_1-800x450](https://github.com/PuchToTalk/AI_voice/assets/90144938/0fef3e59-5cf1-4252-b394-70af666a58c7)
